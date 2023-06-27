@@ -1,0 +1,2 @@
+import DetailDashboardTemplate
+import OverviewDashboardTemplate
